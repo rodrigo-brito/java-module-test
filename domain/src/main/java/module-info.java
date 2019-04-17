@@ -1,6 +1,6 @@
 import br.ufmg.bitcoin.BuyServiceImpl;
 
-module criptocoin {
+module domain {
     requires java.sql;
     requires gson;
     requires utils;

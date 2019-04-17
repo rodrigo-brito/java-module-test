@@ -1,5 +1,5 @@
 module main {
-    requires criptocoin;
+    requires domain;
     requires utils;
     requires service;
 
